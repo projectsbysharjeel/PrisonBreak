@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c3fde533be353dd46907d91d921d4891
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heavy Copper Semi-Italic
+  fontNames:
+  - Heavy Copper Semi-Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 434fcaa14b1fdb44ba11b16c68b925a7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

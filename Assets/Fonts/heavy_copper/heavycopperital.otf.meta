@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 47cdf358dd7a5e04d81f787d60898cc0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heavy Copper Italic
+  fontNames:
+  - Heavy Copper Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 219591680dbcdcf4f9b6b0a338884ecb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a1e99a31c78a9ec43a98f770b6e29a8f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heavy Copper Expanded
+  fontNames:
+  - Heavy Copper Expanded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35780a48214f5ba448aa8003da0ceef5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
